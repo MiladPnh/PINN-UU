@@ -4,8 +4,7 @@ Jupyter notebook for PINN-UU paper
 
 This repository contains the source code accompanying our paper:
 
-> **[Modeling Parametric Uncertainty in PDEs Models via Physics-Informed Neural Networks}
-\titlerunning{Modeling Parametric Uncertainty in PDEs Models via Physics-Informed Neural Networks]**  
+> **[Modeling Parametric Uncertainty in PDEs Models via Physics-Informed Neural Networks}**  
 > [Milad Panahi, Giovanni Michele Porta, Monica Riva, Alberto Guadagnin]  
 > *Advances in Water Resources* (2025).  
 > [https://doi.org/10.1016/j.advwatres.2024.104870]([https://www.sciencedirect.com/science/article/pii/S0309170824002574)](https://doi.org/10.1016/j.advwatres.2024.104870)
