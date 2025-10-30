@@ -1,5 +1,3 @@
-# PINN-UU
-Jupyter notebook for PINN-UU paper
 # Code for: [PINN-UU]
 
 This repository contains the source code accompanying our paper:
